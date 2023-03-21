@@ -1,0 +1,5 @@
+package com.gamers.lojadegames.repository;
+
+public interface ProdutoRepository {
+
+}
