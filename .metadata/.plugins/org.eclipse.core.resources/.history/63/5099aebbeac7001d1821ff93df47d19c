@@ -1,8 +1,0 @@
-package com.gamers.lojadegames.model;
-
-@Entity
-@Table(name = "tb_produtos")
-public class Produto {
-
-	
-}
